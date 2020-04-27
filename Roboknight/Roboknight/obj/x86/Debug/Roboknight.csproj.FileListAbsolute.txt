@@ -1,0 +1,513 @@
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Customer.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\1.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\12.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\123.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\1234.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\124.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\13.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\134.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\14.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\2.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\23.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\234.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\24.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\3.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\34.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\MapSprites\4.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\ButtonFont.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\HeaderFont.xnb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+K:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+E:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb
+C:\Users\ilanb_000\Dropbox\School - NEW\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+C:\Users\BoysPC_XPS\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb
+G:\Sync\School\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+C:\Users\Ilan-Voyager\Dropbox\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.pdb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.csprojResolveAssemblyReference.cache
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.pdb
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.exe.manifest
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Roboknight.application
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.exe.manifest
+C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\Roboknight.application

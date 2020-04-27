@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Sprites\projectile.png</Source>
+      <Name>Images\Sprites\projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\projectile.xnb</Output>
+      <Time>2016-01-09T10:51:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rock.png</Source>
+      <Name>Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Rock.xnb</Output>
+      <Time>2016-01-09T10:59:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menu-button.png</Source>
+      <Name>menu-button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\menu-button.xnb</Output>
+      <Time>2016-01-09T14:33:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Environment\floortexture.png</Source>
+      <Name>Images\Environment\floortexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\floortexture.xnb</Output>
+      <Time>2016-01-17T11:32:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Environment\walltexture.png</Source>
+      <Name>Images\Environment\walltexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\walltexture.xnb</Output>
+      <Time>2016-01-17T11:45:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Environment\rocktexture.png</Source>
+      <Name>Images\Environment\rocktexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Environment\rocktexture.xnb</Output>
+      <Time>2016-01-17T12:12:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\battery.png</Source>
+      <Name>Images\Sprites\Items\battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\battery.xnb</Output>
+      <Time>2016-01-17T16:19:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\pedestal.png</Source>
+      <Name>Images\Sprites\Items\pedestal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\pedestal.xnb</Output>
+      <Time>2016-01-17T13:13:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\faraday.png</Source>
+      <Name>Images\Sprites\Items\faraday</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\faraday.xnb</Output>
+      <Time>2016-01-17T16:05:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\nuclear.png</Source>
+      <Name>Images\Sprites\Items\nuclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nuclear.xnb</Output>
+      <Time>2016-01-17T16:24:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\chess.png</Source>
+      <Name>Images\Sprites\Items\chess</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\chess.xnb</Output>
+      <Time>2016-01-17T16:32:23-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\silphscope.png</Source>
+      <Name>Images\Sprites\Items\silphscope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\silphscope.xnb</Output>
+      <Time>2016-01-17T16:02:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\aluminum.png</Source>
+      <Name>Images\Sprites\Items\aluminum</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\aluminum.xnb</Output>
+      <Time>2016-01-17T16:09:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\cooling.png</Source>
+      <Name>Images\Sprites\Items\cooling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\cooling.xnb</Output>
+      <Time>2016-01-17T16:14:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\lens.png</Source>
+      <Name>Images\Sprites\Items\lens</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\lens.xnb</Output>
+      <Time>2016-01-17T16:37:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\crystal.png</Source>
+      <Name>Images\Sprites\Items\crystal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\crystal.xnb</Output>
+      <Time>2016-01-17T16:41:03-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\graphene.png</Source>
+      <Name>Images\Sprites\Items\graphene</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\graphene.xnb</Output>
+      <Time>2016-01-17T16:45:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\nano.png</Source>
+      <Name>Images\Sprites\Items\nano</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\nano.xnb</Output>
+      <Time>2016-01-17T16:48:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\onion.png</Source>
+      <Name>Images\Sprites\Items\onion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\onion.xnb</Output>
+      <Time>2016-01-17T16:55:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\overclocked.png</Source>
+      <Name>Images\Sprites\Items\overclocked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\overclocked.xnb</Output>
+      <Time>2016-01-17T17:06:15-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\quadcore.png</Source>
+      <Name>Images\Sprites\Items\quadcore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\quadcore.xnb</Output>
+      <Time>2016-01-17T17:10:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\skynet.png</Source>
+      <Name>Images\Sprites\Items\skynet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\skynet.xnb</Output>
+      <Time>2016-01-17T17:20:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Items\titanX.png</Source>
+      <Name>Images\Sprites\Items\titanX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Items\titanX.xnb</Output>
+      <Time>2016-01-17T18:35:39-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Roboknight\forward.png</Source>
+      <Name>Images\Sprites\Roboknight\forward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\forward.xnb</Output>
+      <Time>2016-01-17T20:53:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Roboknight\backward.png</Source>
+      <Name>Images\Sprites\Roboknight\backward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\backward.xnb</Output>
+      <Time>2016-01-17T21:44:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Roboknight\right.png</Source>
+      <Name>Images\Sprites\Roboknight\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\right.xnb</Output>
+      <Time>2016-01-17T21:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Roboknight\left.png</Source>
+      <Name>Images\Sprites\Roboknight\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Roboknight\left.xnb</Output>
+      <Time>2016-01-17T21:35:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\kelad.png</Source>
+      <Name>Images\Sprites\Enemy\kelad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\kelad.xnb</Output>
+      <Time>2016-01-18T20:45:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\turret.png</Source>
+      <Name>Images\Sprites\Enemy\turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\turret.xnb</Output>
+      <Time>2016-01-18T21:05:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\weepingturret.png</Source>
+      <Name>Images\Sprites\Enemy\weepingturret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\weepingturret.xnb</Output>
+      <Time>2016-01-18T21:06:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\nanocloud.png</Source>
+      <Name>Images\Sprites\Enemy\nanocloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\nanocloud.xnb</Output>
+      <Time>2016-01-18T20:25:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\broodingturret.png</Source>
+      <Name>Images\Sprites\Enemy\broodingturret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\broodingturret.xnb</Output>
+      <Time>2016-01-18T21:04:47-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\sandman.png</Source>
+      <Name>Images\Sprites\Enemy\sandman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandman.xnb</Output>
+      <Time>2016-01-18T21:30:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Enemy\sandpile.png</Source>
+      <Name>Images\Sprites\Enemy\sandpile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Sprites\Enemy\sandpile.xnb</Output>
+      <Time>2016-01-18T21:34:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu Backgrounds\titlescreen.png</Source>
+      <Name>Images\Menu Backgrounds\titlescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\titlescreen.xnb</Output>
+      <Time>2016-01-19T20:36:21-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu Backgrounds\gameoverscreen.png</Source>
+      <Name>Images\Menu Backgrounds\gameoverscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\gameoverscreen.xnb</Output>
+      <Time>2016-01-19T20:44:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu Backgrounds\pausescreen.jpg</Source>
+      <Name>Images\Menu Backgrounds\pausescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Images\Menu Backgrounds\pausescreen.xnb</Output>
+      <Time>2016-01-19T21:10:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\1.png</Source>
+      <Name>Map\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\12.png</Source>
+      <Name>Map\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\12.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\123.png</Source>
+      <Name>Map\123</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\123.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\1234.png</Source>
+      <Name>Map\1234</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\1234.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\124.png</Source>
+      <Name>Map\124</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\124.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\13.png</Source>
+      <Name>Map\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\13.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\134.png</Source>
+      <Name>Map\134</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\134.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\14.png</Source>
+      <Name>Map\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\14.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\2.png</Source>
+      <Name>Map\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\2.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\23.png</Source>
+      <Name>Map\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\23.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\234.png</Source>
+      <Name>Map\234</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\234.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\24.png</Source>
+      <Name>Map\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\24.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\3.png</Source>
+      <Name>Map\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\3.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\34.png</Source>
+      <Name>Map\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\34.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\4.png</Source>
+      <Name>Map\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Map\4.xnb</Output>
+      <Time>2016-04-15T17:37:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ButtonFont.spritefont</Source>
+      <Name>Fonts\ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\ButtonFont.xnb</Output>
+      <Time>2016-01-09T15:31:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HeaderFont.spritefont</Source>
+      <Name>Fonts\HeaderFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\HeaderFont.xnb</Output>
+      <Time>2016-01-09T16:38:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DescFont.spritefont</Source>
+      <Name>Fonts\DescFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Fonts\DescFont.xnb</Output>
+      <Time>2016-01-11T13:13:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\tab.wav</Source>
+      <Name>Sound\Menu\tab</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\tab.xnb</Output>
+      <Time>2016-01-16T13:42:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\title.wav</Source>
+      <Name>Sound\Music\title</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\title.xnb</Output>
+      <Time>2016-01-16T11:49:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\dungeon.wav</Source>
+      <Name>Sound\Music\dungeon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\dungeon.xnb</Output>
+      <Time>2016-01-16T11:54:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Music\gameover.wav</Source>
+      <Name>Sound\Music\gameover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Music\gameover.xnb</Output>
+      <Time>2016-01-16T12:19:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\pause.wav</Source>
+      <Name>Sound\Menu\pause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pause.xnb</Output>
+      <Time>2016-01-16T13:22:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\button.wav</Source>
+      <Name>Sound\Menu\button</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\button.xnb</Output>
+      <Time>2016-01-16T13:23:01-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\pagescroll.wav</Source>
+      <Name>Sound\Menu\pagescroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\pagescroll.xnb</Output>
+      <Time>2016-01-16T13:44:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\buyitem.wav</Source>
+      <Name>Sound\Menu\buyitem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\buyitem.xnb</Output>
+      <Time>2016-01-16T13:59:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Menu\sellitem.wav</Source>
+      <Name>Sound\Menu\sellitem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Menu\sellitem.xnb</Output>
+      <Time>2016-01-16T13:59:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Player\dead.wav</Source>
+      <Name>Sound\Player\dead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\dead.xnb</Output>
+      <Time>2016-01-16T14:13:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Player\playershoot.wav</Source>
+      <Name>Sound\Player\playershoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\playershoot.xnb</Output>
+      <Time>2016-01-16T14:29:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\growl1.wav</Source>
+      <Name>Sound\Enemy\growl1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl1.xnb</Output>
+      <Time>2016-01-16T15:16:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\growl2.wav</Source>
+      <Name>Sound\Enemy\growl2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\growl2.xnb</Output>
+      <Time>2016-01-16T15:16:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\shoot.wav</Source>
+      <Name>Sound\Enemy\shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\shoot.xnb</Output>
+      <Time>2016-01-16T17:23:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\dead.wav</Source>
+      <Name>Sound\Enemy\dead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\dead.xnb</Output>
+      <Time>2016-01-16T20:47:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\hit.wav</Source>
+      <Name>Sound\Enemy\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\hit.xnb</Output>
+      <Time>2016-01-16T20:48:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Misc\land.wav</Source>
+      <Name>Sound\Misc\land</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\land.xnb</Output>
+      <Time>2016-01-16T20:50:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Player\hit.wav</Source>
+      <Name>Sound\Player\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Player\hit.xnb</Output>
+      <Time>2016-01-16T20:58:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Enemy\regen.wav</Source>
+      <Name>Sound\Enemy\regen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Enemy\regen.xnb</Output>
+      <Time>2016-01-16T21:12:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Misc\roomenter.wav</Source>
+      <Name>Sound\Misc\roomenter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomenter.xnb</Output>
+      <Time>2016-01-16T23:21:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Misc\roomclear.wav</Source>
+      <Name>Sound\Misc\roomclear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\roomclear.xnb</Output>
+      <Time>2016-01-16T23:27:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Misc\itemroomentry.wav</Source>
+      <Name>Sound\Misc\itemroomentry</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\Sound\Misc\itemroomentry.xnb</Output>
+      <Time>2016-01-17T18:26:52-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5472A8A9-0367-42D0-910D-BC6B2C34D25F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\RoboknightContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ilan-Voyager\Dropbox\--_Cloud_Storage\-- Old Stuff\High School Files\school - new\Gr 11\ICS4U1 - Computer Science\A6_ISU\Roboknight\Roboknight\Roboknight\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-06-06T11:08:38.5019208-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
